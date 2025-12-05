@@ -104,7 +104,7 @@
   <a href="https://www.linkedin.com/in/juan-ignacio-dominguez-91a569308/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:juanigdominguez03@gmail.com?subject=Contacto%20desde%20GitHub" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=juanigdominguez03@gmail.com&su=Contacto%20desde%20GitHub" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
