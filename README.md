@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Hola a todos, soy Juan Ignacio Domínguez. 🖐<br>Desde 2022, me he sumergido en el apasionante mundo de la programación. <br>Me encanta aprender nuevas tecnologías y aplicar mis conocimientos para resolver problemas y crear soluciones innovadoras. Estoy siempre abierto a recibir ideas y propuestas de programación, y estoy ansioso por colaborar en proyectos que puedan tener un impacto significativo. <br><br>Mi viaje en la programación ha sido una experiencia enriquecedora, y estoy convencido de que cada nuevo desafío es una oportunidad para crecer y mejorar. ¡Estoy listo para construir algo increíble juntos!</h4>
+<h4 align="left">Hola a todos, soy Juan Ignacio Domínguez. 🖐<br>Mi viaje en la programación arrancó en 2022 y desde entonces me apasiona crear soluciones que realmente sirvan. Me encanta aprender tecnologías nuevas y usarlas para resolver problemas complejos.<br><br>Gran parte de esta experiencia la gané al co-fundar Arcynox. Emprender ahí me permitió involucrarme tanto en el desarrollo puro como en la visión general del proyecto, descubriendo lo mucho que me motiva liderar desde la tecnología y el producto, formándome con la meta de asumir roles como CTO y CPO.<br><br>Siempre estoy abierto a cruzar ideas, escuchar propuestas y colaborar en proyectos que tengan un impacto positivo. Siento que cada nuevo desafío es una oportunidad enorme para seguir creciendo. ¡Con muchas ganas de que construyamos algo increíble juntos!</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">Hello everyone, I'm Juan Ignacio Domínguez. 🖐<br>Since 2022, I've immersed myself in the fascinating world of programming. <br>I love learning new technologies and applying my knowledge to solve problems and create innovative solutions. I'm always open to receiving programming ideas and proposals, and I'm eager to collaborate on projects that can make a significant impact. <br><br>My journey in programming has been a rewarding experience, and I believe that every new challenge is an opportunity to grow and improve. I'm ready to build something amazing together!</h4>
+<h4 align="left">Hello everyone, I'm Juan Ignacio Domínguez. 🖐<br>My programming journey started in 2022, and since then, I've been passionate about building solutions that actually work. I love learning new technologies and using them to solve complex problems.<br><br>A big part of that experience came from co-founding Arcynox. Building a company allowed me to get involved in both pure development and the overall vision of the project. It helped me discover how much I enjoy leading from the tech and product side, with the goal of taking on roles like CTO and CPO.<br><br>I'm always open to bouncing ideas around, listening to proposals, and collaborating on projects that make a positive impact. I feel like every new challenge is a huge opportunity to keep growing. I'm really looking forward to building something amazing together!</h4>
 
 ###
 
